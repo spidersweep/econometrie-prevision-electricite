@@ -36,30 +36,4 @@ Identifier et quantifier les **déterminants de la consommation d'électricité 
 
 ---
 
-## 📁 Structure du dépôt
-econometrie-prevision-electricite/
-│
-├── README.md # Ce fichier
-├── LICENSE # Licence MIT
-├── .gitignore # Fichiers à ignorer
-│
-├── code/ # Scripts R
-│ ├── 01_collecte_donnees_Lara.R # Étape 1 : Collecte et nettoyage
-│ ├── 02_analyse_exploratoire_Nabiha.R # Étape 2 : Analyse descriptive
-│ └── 03_modelisation_Awatif.R # Étape 3 : ARIMAX et prévisions
-│
-├── data/ # Données (CSV)
-│ ├── conso_idf_mensuel_2016_2024_final.csv
-│ ├── trends_chauffage.csv
-│ ├── trends_canicule.csv
-│ └── trends_climatisation.csv
-│
-├── outputs/ # Résultats
-│ ├── graphiques/
-│ │ ├── serie_temporelle.png
-│ │ ├── saisonnalite.png
-│ │ └── decomposition.png
-│ └── resultats_arimax.csv
-│
-└── rapport/ # Document final
-└── Rapport_M1_BIDABI_2025.docx
+
