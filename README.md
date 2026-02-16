@@ -1,18 +1,18 @@
 # Modélisation et Prévision de la Consommation d'Électricité en Île-de-France
 
-## 📋 Projet Académique - Master 1 BIDABI (2024-2025)
+##  Projet Académique
 
 Ce projet vise à **modéliser et prévoir la consommation mensuelle d'électricité** en Île-de-France sur la période 2016–2024 à l'aide de méthodes économétriques avancées (modèles SARIMAX).
 
 ---
 
-## 🎯 Objectif général
+## Objectif général
 
 Identifier et quantifier les **déterminants de la consommation d'électricité régionale** (température, saisonnalité, comportements de recherche en ligne) et développer un **modèle de prévision robuste** pour anticiper les pics de consommation, utile aux gestionnaires de réseau et aux décideurs énergétiques.
 
 ---
 
-## 📊 Données
+##  Données
 
 ### Sources principales
 
